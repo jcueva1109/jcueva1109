@@ -33,7 +33,7 @@ Apart of coding, I also maintain a blog - you can find my articles on my website
 [![JCueva1109's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcueva1109)](https://wakatime.com)
 
 ## Contact 
-You cand find me on: 
+You can find me on: 
 * [Facebook](https://www.facebook.com/jcueva1109 "Facebook")
 * [Twitter](https://twitter.com/JesusCueva0911?s=09 "Twitter")
 * [Instagram](https://www.instagram.com/jcueva0911/ "Instagram")
