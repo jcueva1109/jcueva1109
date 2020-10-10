@@ -28,9 +28,9 @@ Apart of coding, I also maintain a blog - you can find my articles on my website
 ## Github Stats 📈 
 ![JCueva1109's github stats](https://github-readme-stats.vercel.app/api?username=jcueva1109&show_icons=true&hide=prs,issues,stars&theme=tokyonight "jcueva1109's github stats")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcueva1109&theme=tokyonight)]() 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcueva1109&theme=tokyonight)](https://github.com/jcueva1109) 
 
-[![JCueva1109's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcueva1109)]()
+[![JCueva1109's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcueva1109)](https://wakatime.com)
 
 ## Contact 
 You cand find me on: 
