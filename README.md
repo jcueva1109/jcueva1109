@@ -26,6 +26,7 @@ Apart of coding, I also maintain a blog - you can find my articles on my website
 
 ## How do I stay up to date with the new technologies?
 I read blogs about new methodologies, practices, languages, and other stuff! Check it out! <br>
+<br>
 <a href="https://app.daily.dev/jcueva0911"><img src="https://api.daily.dev/devcards/31692aa819464142a023b6ef2ce0d995.png?r=der" width="400" alt="Jesus Cueva's Dev Card"/></a>
 
 ## Github Stats 📈 
