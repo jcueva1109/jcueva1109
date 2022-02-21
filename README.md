@@ -6,7 +6,10 @@
 <br>
 I'm a Front End/Back End Developer, Content Creator and Entrepeneur. I'm also currently doing my Bsc in Computer Science while working on my personal projects. I am passionate about AI, Machine Learning, Dynamic Programming, UX/UI, Blogging, Logging and Automation. When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies, daydreaming actionpacked dreams where I am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to beat coding, studying, or watching movies. </p>
 
-## Blog & Writing ✍️ 
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  
+ ## Blog & Writing ✍️ 
 Apart of coding, I also maintain a blog - you can find my articles on my website [Advanced Tech](https://jesuscueva100.wixsite.com/advtech "Advanced Tech Blog"). Also you can stop by and see my [Quora profile](https://www.quora.com/profile/Jesùs-Cueva "jcueva0911 on quora").
 
 ## Techonologies & Tools 🧰
@@ -23,10 +26,17 @@ Apart of coding, I also maintain a blog - you can find my articles on my website
  ![](https://img.shields.io/badge/Tools-OracleDB-red)
  ![](https://img.shields.io/badge/Tools-H2-red)
  ![](https://img.shields.io/badge/Tools-MySQL-red)
-
+   
+  </div>
+  <div class="col-md-4" markdown="1">
+   
 ## How do I stay up to date with the new technologies?
 I read blogs about new methodologies, practices, languages, and other stuff! Check it out!
 <a href="https://app.daily.dev/jcueva0911"><img src="https://api.daily.dev/devcards/31692aa819464142a023b6ef2ce0d995.png?r=der" width="400" alt="Jesus Cueva's Dev Card"/></a>
+
+   
+  </div>
+</div>
 
 ## Github Stats 📈 
 ![JCueva1109's github stats](https://github-readme-stats.vercel.app/api?username=jcueva1109&show_icons=true&hide=prs,issues,stars&theme=tokyonight "jcueva1109's github stats")
