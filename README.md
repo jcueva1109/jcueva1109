@@ -24,6 +24,9 @@ Apart of coding, I also maintain a blog - you can find my articles on my website
  ![](https://img.shields.io/badge/Tools-H2-red)
  ![](https://img.shields.io/badge/Tools-MySQL-red)
 
+## How do I stay up to date with the new technologies?
+I read blogs about new methodologies, practices, languages, and other stuff! Check it out!
+<a href="https://app.daily.dev/jcueva0911"><img src="https://api.daily.dev/devcards/31692aa819464142a023b6ef2ce0d995.png?r=der" width="400" alt="Jesus Cueva's Dev Card"/></a>
 
 ## Github Stats 📈 
 ![JCueva1109's github stats](https://github-readme-stats.vercel.app/api?username=jcueva1109&show_icons=true&hide=prs,issues,stars&theme=tokyonight "jcueva1109's github stats")
